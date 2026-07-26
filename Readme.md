@@ -7,3 +7,4 @@
 | Компромисс (trade-off) | [`docs/03-tradeoffs.md`](docs/03-tradeoffs.md) |
 | Диаграмма C4 (Context) | [`docs/views/c4-context.md`](docs/views/c4-context.md) |
 | Диаграмма C4 (Containers) | [`docs/views/c4-containers.md`](docs/views/c4-containers.md) |
+| Возможности и поддомены | [`docs/04-capabilities-subdomains.md`](docs/04-capabilities-subdomains.md) |
