@@ -17,6 +17,6 @@ flowchart TB
 
     classDef container fill:#438dd5,stroke:#2e6295,color:#ffffff;
     classDef external fill:#999999,stroke:#6b6b6b,color:#ffffff;
-    class app,db,mq container;
-    class senders,smtp,sms external;
+    class web,bff,agregator,db container;
+    class broker external;
 ```
